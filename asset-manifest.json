@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ammar-SoftwareEngineer/requset-Bank-Loan/static/css/main.b38397de.css",
-    "main.js": "/ammar-SoftwareEngineer/requset-Bank-Loan/static/js/main.048b04b4.js",
-    "static/js/453.3102db45.chunk.js": "/ammar-SoftwareEngineer/requset-Bank-Loan/static/js/453.3102db45.chunk.js",
-    "index.html": "/ammar-SoftwareEngineer/requset-Bank-Loan/index.html",
-    "main.b38397de.css.map": "/ammar-SoftwareEngineer/requset-Bank-Loan/static/css/main.b38397de.css.map",
-    "main.048b04b4.js.map": "/ammar-SoftwareEngineer/requset-Bank-Loan/static/js/main.048b04b4.js.map",
-    "453.3102db45.chunk.js.map": "/ammar-SoftwareEngineer/requset-Bank-Loan/static/js/453.3102db45.chunk.js.map"
+    "main.css": "/request-Bank-Loan/static/css/main.b38397de.css",
+    "main.js": "/request-Bank-Loan/static/js/main.45c14fc7.js",
+    "static/js/453.3102db45.chunk.js": "/request-Bank-Loan/static/js/453.3102db45.chunk.js",
+    "index.html": "/request-Bank-Loan/index.html",
+    "main.b38397de.css.map": "/request-Bank-Loan/static/css/main.b38397de.css.map",
+    "main.45c14fc7.js.map": "/request-Bank-Loan/static/js/main.45c14fc7.js.map",
+    "453.3102db45.chunk.js.map": "/request-Bank-Loan/static/js/453.3102db45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b38397de.css",
-    "static/js/main.048b04b4.js"
+    "static/js/main.45c14fc7.js"
   ]
 }
